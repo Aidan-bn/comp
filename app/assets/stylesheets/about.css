@@ -1,0 +1,41 @@
+.color-codes {
+    color: #2aace3;
+    color: #f1592b;
+    color: #1a1315;
+}
+
+.section-about {
+    padding: 20px;
+    background-image: url('bg-3.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+.section-about > h1 {
+    position: absolute;
+    top: 80px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.section-about > hr {
+    position: absolute;
+    top: 130px;
+    width: 50px;
+    background-color: #2aace3;
+}
+
+.section-about > p {
+    position: absolute;
+    bottom: 230px;
+    padding-right: 20px;
+}
+
+.section-about > menu {
+    position: absolute;
+    bottom: 100px;
+    padding-right: 20px;
+}
